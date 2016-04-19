@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/12/24 17:03:53.540.pas,C:\Documents and Settings\joon\My Documents\Borland Studio Projects\Unit2.pas=C:\Documents and Settings\joon\デスクトップ\Delphi\EchoClient\Unit2.pas</Transaction>
+    <Transaction>2013/12/24 17:03:53.540.dfm,C:\Documents and Settings\joon\My Documents\Borland Studio Projects\Unit2.dfm=C:\Documents and Settings\joon\デスクトップ\Delphi\EchoClient\Unit2.dfm</Transaction>
+    <Transaction>2013/12/24 17:03:54.477.bdsproj,C:\Documents and Settings\joon\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\joon\デスクトップ\Delphi\EchoClient\Project1.bdsproj</Transaction>
+    <Transaction>2014/03/25 15:33:05.505.pas,C:\Documents and Settings\joon\デスクトップ\MyProject\taQ\gameserver\testClient\FastInt64.pas=</Transaction>
+    <Transaction>2014/03/25 15:33:06.801.pas,C:\Documents and Settings\joon\デスクトップ\MyProject\taQ\gameserver\testClient\Hashes.pas=</Transaction>
+    <Transaction>2014/03/25 15:33:07.989.pas,C:\Documents and Settings\joon\デスクトップ\MyProject\taQ\gameserver\testClient\JSON.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,9 @@
+dev4app
+
+forever list
+
+tail -f /home/dev4app/.forever/~~
+
+forever stop 1
+
+forever start server_cluster.js
